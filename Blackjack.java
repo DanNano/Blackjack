@@ -205,6 +205,7 @@ public class Blackjack {
 //Program End
 //Still not used to methods so my work today is elongated. I hope in the future as I learn more that it will shorten :)
 //Due 9/18/2021
+//Now on GitHub!
 
 
 
